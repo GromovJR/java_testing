@@ -1,3 +1,5 @@
+package ru.gromov.javaprog.sandbox;
+
 public class HelloOleg {
 
       public static void main(String[] args) {
